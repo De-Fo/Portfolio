@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="registration-form">
+        <h1>Snowkiteorava 2024 registration</h1>
+        <form method="post" id="sheetdb-form" action="https://sheetdb.io/api/v1/YOUR API CODE">
+            <label for="number">Number:</label>
+            <input type="number" placeholder="Number on dress" name="data[number]" required>
+
+            <label for="name">Name:</label>
+            <input type="text" placeholder="name" name="data[name]" required>
+
+            <label for="kite">Kite & Size:</label>
+            <input type="text" placeholder="brand, color, size" name="data[kite]" required>
+
+            <label for="equipment">Snowboard or Skis:</label>
+            <select id="equipment" name="data[equipment]" required>
+                <option value="Snowboard">Snowboard</option>
+                <option value="Skis">Skis</option>
+            </select>
+
+            <label for="nationality">Nationality:</label>
+            <input type="text" placeholder="SK/CZ/PL/HU" name="data[nationality]" required>
+
+            <button type="submit" id="submit">Register</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
