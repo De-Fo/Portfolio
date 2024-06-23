@@ -1,0 +1,14 @@
+c:\users\matus_000\documents\visual studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.exe.config
+c:\users\matus_000\documents\visual studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.exe
+c:\users\matus_000\documents\visual studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.pdb
+c:\users\matus_000\documents\visual studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.exe
+c:\users\matus_000\documents\visual studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.pdb
+C:\Users\matus_000\Documents\Visual Studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.csprojAssemblyReference.cache
+C:\Users\matus_000\Documents\Visual Studio 2017\Projects\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.csproj.CoreCompileInputs.cache
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.csprojAssemblyReference.cache
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.csproj.CoreCompileInputs.cache
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.exe
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\obj\Debug\Projekt2_v.1.pdb
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.exe.config
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.exe
+C:\Users\sglon\Dropbox\c#\Projekt2_v.1\Projekt2_v.1\Projekt2_v.1\bin\Debug\Projekt2_v.1.pdb
